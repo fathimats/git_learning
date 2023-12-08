@@ -5,3 +5,9 @@ git init : for initializing empty git repository
 git add -A 
 git commit -m "message"
 git status : to list all untracker files
+git remote add name remote path
+git remote -v
+git stash
+git stashpop
+git rebase
+git merge
